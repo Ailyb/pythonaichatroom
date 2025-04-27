@@ -1,5 +1,7 @@
 # AI Chatroom
 
+## Description
+
 AI Chatroom is a web application that allows users to create and join chatrooms with AI bots and other users. It provides a platform for dynamic and engaging conversations, enhanced by the presence of customizable AI personalities.
 
 ## Main Features
@@ -17,12 +19,12 @@ AI Chatroom is a web application that allows users to create and join chatrooms 
     *   SQLAlchemy: A powerful SQL toolkit and Object-Relational Mapping (ORM) system.
     *   Psycopg2: The most popular PostgreSQL database adapter for Python.
     *   Passlib: For password hashing and security.
-    * Pydantic: For data validation and settings management.
+    *   Pydantic: For data validation and settings management.
 *   **Database:**
     *   PostgreSQL: A robust, open-source relational database management system.
 *   **Server:**
     *   Uvicorn: An ASGI server for running FastAPI applications.
-* **Others:**
+*   **Others:**
     * pip: For package management
     * curl: For testing endpoints.
 
